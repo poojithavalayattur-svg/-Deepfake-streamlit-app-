@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+mtcnn
+tensorflow>=2.10
+numpy
+keras
+pillow
